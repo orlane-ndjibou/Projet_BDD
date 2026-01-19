@@ -53,7 +53,7 @@ Le travail a été guidé par le **Prompt Riccardo**, qui définit les rôles, l
 * Traductions multilingues
 * Produits dérivés
 
-**Contraintes :**
+**Contraintes:**
 
 * Exhaustivité et cohérence
 * Terminologie éditoriale française
